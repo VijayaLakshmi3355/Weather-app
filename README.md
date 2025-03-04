@@ -21,7 +21,7 @@ A simple weather application built with React that allows users to check the cur
 - ☀️🌧️❄️☁️ Icons for different weather conditions.
 
 **Live Demo:**
-Check out the live demo here: [Weather App Live Demo](https://vijayalakshmi3355.github.io/Weather-app/) 🌐
+Check out the live demo here: <span style="font-size: 12px;"><a href="https://vijayalakshmi3355.github.io/Weather-app/" target="_blank">Weather App Live Demo</a></span> 🌐
 
 ## Technologies Used 🛠️
 - **React.js**⚛️ (JavaScript library for building the user interface)
