@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://VijayaLakshmi3355.github.io/weather-app",
+  "homepage": "https://VijayaLakshmi3355.github.io/Weather-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -29,3 +29,6 @@
     "vite": "^6.2.0"
   }
 }
+
+
+
