@@ -20,6 +20,8 @@ A simple weather application built with React that allows users to check the cur
 - 🌬️ Display wind speed.
 - ☀️🌧️❄️☁️ Icons for different weather conditions.
 
+**Live Demo:**
+Check out the live demo here: [Weather App Live Demo](https://vijayalakshmi3355.github.io/Weather-app/) 🌐
 
 ## Technologies Used 🛠️
 - **React.js**⚛️ (JavaScript library for building the user interface)
@@ -102,5 +104,3 @@ This project is open-source and available under the MIT License
 
 [link:([https://vijayalakshmi3355.github.io/Weather-app/](url))]
 Thank you for checking out my Weather App😉(❁´◡`❁)! Enjoy exploring the weather! 🌦️💫
-**Live Demo:**
-Check out the live demo here: [Weather App Live Demo](https://vijayalakshmi3355.github.io/Weather-app/) 🌐
